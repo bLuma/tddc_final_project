@@ -10,7 +10,7 @@
     </parent>
     <groupId>cz.upce.tddc</groupId>
     <artifactId>final</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>final</name>
     <description>Final project of TDD course</description>
     <properties>
