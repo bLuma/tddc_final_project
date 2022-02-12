@@ -1,1 +1,2 @@
 [![Java CI with Maven](https://github.com/bLuma/tddc_final_project/actions/workflows/maven.yml/badge.svg)](https://github.com/bLuma/tddc_final_project/actions/workflows/maven.yml)
+[![codecov](https://codecov.io/gh/bLuma/tddc_final_project/branch/main/graph/badge.svg?token=42QA540QCZ)](https://codecov.io/gh/bLuma/tddc_final_project)
